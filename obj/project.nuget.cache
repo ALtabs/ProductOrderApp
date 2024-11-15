@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bZ2Qm1ZzVZw=",
+  "success": true,
+  "projectFilePath": "/home/cf/ProductOrderApp/ProductOrderApp.csproj",
+  "expectedPackageFiles": [
+    "/home/cf/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
