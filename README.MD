@@ -28,5 +28,7 @@ Follow these steps to set up the project on your local machine.
 First, clone the repository to your local machine.
 
 ```bash
-git clone https://github.com/your-username/product-order-web-app.git
-cd product-order-web-app
+git clone https://github.com/ALtabs/ProductOrderApp.git
+cd ProductOrderApp
+dotnet restore
+dotnet run

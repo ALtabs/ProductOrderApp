@@ -31,3 +31,4 @@
 /home/cf/ProductOrderApp/obj/Debug/net8.0/ProductOrderApp.pdb
 /home/cf/ProductOrderApp/obj/Debug/net8.0/ProductOrderApp.genruntimeconfig.cache
 /home/cf/ProductOrderApp/obj/Debug/net8.0/ref/ProductOrderApp.dll
+/home/cf/ProductOrderApp/obj/Debug/net8.0/ProductOrderApp.sourcelink.json
